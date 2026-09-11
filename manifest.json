@@ -1,0 +1,12 @@
+{
+  "pack_name": "yeah129",
+  "version": "1.0",
+  "mods": [
+    {
+      "name": "Example Mod",
+      "url": "https://example.com/path/to/mod.jar",
+      "filename": "examplemod.jar",
+      "sha256": "PUT_HASH_HERE"
+    }
+  ]
+}
