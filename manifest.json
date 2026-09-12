@@ -1,712 +1,720 @@
 {
-  "minecraft_version": "1.20.1",
-  "mod_loader": "forge",
-  "loader_version": "CHANGE_ME",
-  "server_name": "CHANGE_ME",
-  "server_ip": "CHANGE_ME",
-  "server_port": 25565,
+  "pack_name": "yeah129",
+  "version": "1.0",
   "mods": [
     {
-      "name": "[forge]ctov",
-      "filename": "[forge]ctov-3.4.14.jar",
-      "url": "https://mediafilez.forgecdn.net/files/6459/777/%5Bforge%5Dctov-3.4.14.jar",
-      "sha256": ""
-    },
-    {
-      "name": "adamsarsplus",
+      "name": "adamsarsplus-1.20.1-5.0.3",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/adamsarsplus-1.20.1-5.0.3.jar",
       "filename": "adamsarsplus-1.20.1-5.0.3.jar",
-      "url": "https://mediafilez.forgecdn.net/files/7461/849/adamsarsplus-1.20.1-5.0.3.jar",
-      "sha256": ""
+      "sha256": "9763cf7f0f0bbc1199f1f6ecc843e8cd117d51769e5ea12ba52b8fab12633497"
     },
     {
-      "name": "alltheleaks",
+      "name": "alienevo-dev-build-2.0.0-dev.22-forge",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/alienevo-dev-build-2.0.0-dev.22-forge.jar",
+      "filename": "alienevo-dev-build-2.0.0-dev.22-forge.jar",
+      "sha256": "88aa5064875de2b4b8f12ec563be09895de5f1392870c4210daa2850857accd7"
+    },
+    {
+      "name": "alltheleaks-1.1.3+1.20.1-forge",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/alltheleaks-1.1.3+1.20.1-forge.jar",
       "filename": "alltheleaks-1.1.3+1.20.1-forge.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8779/054/alltheleaks-1.1.3%2B1.20.1-forge.jar",
-      "sha256": ""
+      "sha256": "4bb5a05d7f9caa9e689e43c4b4b65540b67afe53bb7c9e810465f63da4744685"
     },
     {
-      "name": "ApothicAttributes",
+      "name": "ApothicAttributes-1.20.1-1.3.7",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/ApothicAttributes-1.20.1-1.3.7.jar",
       "filename": "ApothicAttributes-1.20.1-1.3.7.jar",
-      "url": "https://mediafilez.forgecdn.net/files/5634/071/ApothicAttributes-1.20.1-1.3.7.jar",
-      "sha256": ""
+      "sha256": "68487b11c0d4e2f67a85f2b04bf65e99ac15294f2923f4391f83e9542293187a"
     },
     {
-      "name": "Aquaculture",
+      "name": "Aquaculture-1.20.1-2.5.7",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/Aquaculture-1.20.1-2.5.7.jar",
       "filename": "Aquaculture-1.20.1-2.5.7.jar",
-      "url": "https://mediafilez.forgecdn.net/files/7331/172/Aquaculture-1.20.1-2.5.7.jar",
-      "sha256": ""
+      "sha256": "4c96cf0dd3363a8e15f9ef6b6bfc00ac7d4791e8e9eeebe19b8092c59e800f8f"
     },
     {
-      "name": "aquamirae forge",
+      "name": "aquamirae-forge-1.20.1-6.4.0",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/aquamirae-forge-1.20.1-6.4.0.jar",
       "filename": "aquamirae-forge-1.20.1-6.4.0.jar",
-      "url": "https://mediafilez.forgecdn.net/files/7985/699/aquamirae-forge-1.20.1-6.4.0.jar",
-      "sha256": ""
+      "sha256": "1a9c845ba2e1fe0bbf321a66453e26e62bb6b528849be2f8281db9f17a0c7aca"
     },
     {
-      "name": "architectury",
+      "name": "architectury-9.2.14-forge",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/architectury-9.2.14-forge.jar",
       "filename": "architectury-9.2.14-forge.jar",
-      "url": "https://mediafilez.forgecdn.net/files/5137/938/architectury-9.2.14-forge.jar",
-      "sha256": ""
+      "sha256": "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af"
     },
     {
-      "name": "ars nouveau",
+      "name": "ars_nouveau-1.20.1-4.12.7-all",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/ars_nouveau-1.20.1-4.12.7-all.jar",
       "filename": "ars_nouveau-1.20.1-4.12.7-all.jar",
-      "url": "https://mediafilez.forgecdn.net/files/6688/854/ars_nouveau-1.20.1-4.12.7-all.jar",
-      "sha256": ""
+      "sha256": "1f1debc282a0c379c1141f2840ea294eede6f6b544c589663f40bbe17b59a1af"
     },
     {
-      "name": "artifacts forge",
+      "name": "artifacts-forge-9.5.19",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/artifacts-forge-9.5.19.jar",
       "filename": "artifacts-forge-9.5.19.jar",
-      "url": "https://mediafilez.forgecdn.net/files/7903/806/artifacts-forge-9.5.19.jar",
-      "sha256": ""
+      "sha256": "f1e4dc786866b6e4f2a48142f2acf63bb9bee54ac2f31621ad5d8f18ab54c7b0"
     },
     {
-      "name": "awesomedungeonocean forge",
+      "name": "awesomedungeonocean-forge-1.20.1-3.3.0",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/awesomedungeonocean-forge-1.20.1-3.3.0.jar",
       "filename": "awesomedungeonocean-forge-1.20.1-3.3.0.jar",
-      "url": "https://mediafilez.forgecdn.net/files/4601/248/awesomedungeonocean-forge-1.20.1-3.3.0.jar",
-      "sha256": ""
+      "sha256": "f437f04d564660f6efc5b35e1b8562fcf2a43dbf144692e0c665517eb2f18fe5"
     },
     {
-      "name": "balm forge",
+      "name": "balm-forge-1.20.1-7.3.42",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/balm-forge-1.20.1-7.3.42.jar",
       "filename": "balm-forge-1.20.1-7.3.42.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8545/415/balm-forge-1.20.1-7.3.42.jar",
-      "sha256": ""
+      "sha256": "1abe13b5de575af91ebc073b19e4e2cfedbe795b15f406e9516ed52cbd2de3a6"
     },
     {
-      "name": "betterarcheology",
+      "name": "betterarcheology-1.2.1-1.20.1",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/betterarcheology-1.2.1-1.20.1.jar",
       "filename": "betterarcheology-1.2.1-1.20.1.jar",
-      "url": "https://mediafilez.forgecdn.net/files/5693/368/betterarcheology-1.2.1-1.20.1.jar",
-      "sha256": ""
+      "sha256": "4180f72ec4b69690ec160ac50e48c087f0fe7c98681dcd1f70d82ed5cbfeec9e"
     },
     {
-      "name": "block factorys bosses",
+      "name": "block_factorys_bosses-2.1.2-forge-1.20.1",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/block_factorys_bosses-2.1.2-forge-1.20.1.jar",
       "filename": "block_factorys_bosses-2.1.2-forge-1.20.1.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8123/166/block_factorys_bosses-2.1.2-forge-1.20.1.jar",
-      "sha256": ""
+      "sha256": "8c61087aa483f90861451682519582e03fa76e773d855e35180a8ed3428938bc"
     },
     {
-      "name": "blue skies",
+      "name": "blue_skies-1.20.1-1.3.31",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/blue_skies-1.20.1-1.3.31.jar",
       "filename": "blue_skies-1.20.1-1.3.31.jar",
-      "url": "https://mediafilez.forgecdn.net/files/5010/316/blue_skies-1.20.1-1.3.31.jar",
-      "sha256": ""
+      "sha256": "dda5351a7d75f8074e9878912140fd5ab2fe4e74d7678d4f9c52c0b86bce9748"
     },
     {
-      "name": "BOMD Forge",
+      "name": "BOMD-Forge-1.20.1-1.1.1",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/BOMD-Forge-1.20.1-1.1.1.jar",
       "filename": "BOMD-Forge-1.20.1-1.1.1.jar",
-      "url": "https://mediafilez.forgecdn.net/files/5057/880/BOMD-Forge-1.20.1-1.1.1.jar",
-      "sha256": ""
+      "sha256": "4530411d4cd1004f3a6ad248c6bda667c364ee4fd345ceb7a20c947ef093e3be"
     },
     {
-      "name": "born in chaos [Forge]",
-      "filename": "born_in_chaos_[Forge]1.20.1_1.7.5.jar",
-      "url": "https://mediafilez.forgecdn.net/files/7917/933/born_in_chaos_%5BForge%5D1.20.1_1.7.5.jar",
-      "sha256": ""
+      "name": "born_in_chaos_.Forge.1.20.1_1.7.5",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/born_in_chaos_.Forge.1.20.1_1.7.5.jar",
+      "filename": "born_in_chaos_.Forge.1.20.1_1.7.5.jar",
+      "sha256": "9f242f4f3330f3d0d985f5f3ce9a92fe09016ff9c6162252f201d17009b28d7d"
     },
     {
-      "name": "boslm",
+      "name": "boslm-1.20.1-1.1.0",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/boslm-1.20.1-1.1.0.jar",
       "filename": "boslm-1.20.1-1.1.0.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8720/807/boslm-1.20.1-1.1.0.jar",
-      "sha256": ""
+      "sha256": "2354192d28300ccd6627bddb15dee86f6bd8102064ec55152c728066460c7fba"
     },
     {
-      "name": "calmtheleaks",
+      "name": "calmtheleaks-1.2.4+1.20.1-forge",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/calmtheleaks-1.2.4+1.20.1-forge.jar",
       "filename": "calmtheleaks-1.2.4+1.20.1-forge.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8687/782/calmtheleaks-1.2.4%2B1.20.1-forge.jar",
-      "sha256": ""
+      "sha256": "79c13a55a29f0200cc2ecfe43394d1c8649c667c3d128f350b9d4881cba428dd"
     },
     {
-      "name": "camps castles carriages",
+      "name": "camps_castles_carriages-2.3.4",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/camps_castles_carriages-2.3.4.jar",
       "filename": "camps_castles_carriages-2.3.4.jar",
-      "url": "https://mediafilez.forgecdn.net/files/6739/656/camps_castles_carriages-2.3.4.jar",
-      "sha256": ""
+      "sha256": "ccd630b63cb3118c167be271ab41330f5348aa380ecdef000f2d22ed883536ea"
     },
     {
-      "name": "carryon forge",
+      "name": "carryon-forge-1.20.1-2.1.2.7",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/carryon-forge-1.20.1-2.1.2.7.jar",
       "filename": "carryon-forge-1.20.1-2.1.2.7.jar",
-      "url": "https://mediafilez.forgecdn.net/files/4882/500/carryon-forge-1.20.1-2.1.2.7.jar",
-      "sha256": ""
+      "sha256": "d7470921fc5ff988788d43409083f62478aecc91f4b81d7e6b63c80c933d4613"
     },
     {
-      "name": "CerbonsApi Forge",
+      "name": "CerbonsApi-Forge-1.20.1-1.0.0",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/CerbonsApi-Forge-1.20.1-1.0.0.jar",
       "filename": "CerbonsApi-Forge-1.20.1-1.0.0.jar",
-      "url": "https://mediafilez.forgecdn.net/files/4992/038/CerbonsApi-Forge-1.20.1-1.0.0.jar",
-      "sha256": ""
+      "sha256": "b764f411ddcf4612b27774166d227d3bc92741e1a89ac0590aa3dbba432ab249"
     },
     {
-      "name": "citadel",
+      "name": "citadel-2.6.3-1.20.1",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/citadel-2.6.3-1.20.1.jar",
       "filename": "citadel-2.6.3-1.20.1.jar",
-      "url": "https://mediafilez.forgecdn.net/files/7476/570/citadel-2.6.3-1.20.1.jar",
-      "sha256": ""
+      "sha256": "56c7ab87348a5292583aac787b6cf11b5193e77f02af1d17ea75a96f8640b3ce"
     },
     {
-      "name": "cleanswing",
+      "name": "cleanswing-1.20-1.8",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/cleanswing-1.20-1.8.jar",
       "filename": "cleanswing-1.20-1.8.jar",
-      "url": "https://mediafilez.forgecdn.net/files/5962/530/cleanswing-1.20-1.8.jar",
-      "sha256": ""
+      "sha256": "beb67f1af48b8ba77a8de1a48ea08d97a520a32b490bb4fd9a0da1dfd485a699"
     },
     {
-      "name": "cloth config",
+      "name": "cloth-config-11.1.136-forge",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/cloth-config-11.1.136-forge.jar",
       "filename": "cloth-config-11.1.136-forge.jar",
-      "url": "https://mediafilez.forgecdn.net/files/5729/105/cloth-config-11.1.136-forge.jar",
-      "sha256": ""
+      "sha256": "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2"
     },
     {
-      "name": "Clumps forge",
+      "name": "Clumps-forge-1.20.1-12.0.0.4",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/Clumps-forge-1.20.1-12.0.0.4.jar",
       "filename": "Clumps-forge-1.20.1-12.0.0.4.jar",
-      "url": "https://mediafilez.forgecdn.net/files/5278/538/Clumps-forge-1.20.1-12.0.0.4.jar",
-      "sha256": ""
+      "sha256": "1d1cfcf386f182b1d0bdbe4bd4fc57b96234e8c7468e95e1575ad4dd6433243a"
     },
     {
-      "name": "Controlling forge",
+      "name": "Controlling-forge-1.20.1-12.0.2",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/Controlling-forge-1.20.1-12.0.2.jar",
       "filename": "Controlling-forge-1.20.1-12.0.2.jar",
-      "url": "https://mediafilez.forgecdn.net/files/4646/682/Controlling-forge-1.20.1-12.0.2.jar",
-      "sha256": ""
+      "sha256": "516308a93824119f6a1ebc75425aa21ee8f8de0c331942793a054ba6d9c24944"
     },
     {
-      "name": "cristellib",
+      "name": "cristellib-1.1.6-forge",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/cristellib-1.1.6-forge.jar",
       "filename": "cristellib-1.1.6-forge.jar",
-      "url": "https://mediafilez.forgecdn.net/files/5869/180/cristellib-1.1.6-forge.jar",
-      "sha256": ""
+      "sha256": "3856ad565ea45d6189452d813e2f021b365b686d3b1adae5f747c56a1e535d9f"
     },
     {
-      "name": "cupboard",
+      "name": "cupboard-1.20.1-4.1",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/cupboard-1.20.1-4.1.jar",
       "filename": "cupboard-1.20.1-4.1.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8746/423/cupboard-1.20.1-4.1.jar",
-      "sha256": ""
+      "sha256": "9522d88548eca28469441743a1d4a16a5ad863cd5e00ec6525130485a695392b"
     },
     {
-      "name": "curios forge",
+      "name": "curios-forge-5.14.1+1.20.1",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/curios-forge-5.14.1+1.20.1.jar",
       "filename": "curios-forge-5.14.1+1.20.1.jar",
-      "url": "https://mediafilez.forgecdn.net/files/6418/456/curios-forge-5.14.1%2B1.20.1.jar",
-      "sha256": ""
+      "sha256": "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f"
     },
     {
-      "name": "DistantHorizons",
+      "name": "DistantHorizons-3.2.0-b-1.20.1-fabric-forge",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/DistantHorizons-3.2.0-b-1.20.1-fabric-forge.jar",
       "filename": "DistantHorizons-3.2.0-b-1.20.1-fabric-forge.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8389/142/DistantHorizons-3.2.0-b-1.20.1-fabric-forge.jar",
-      "sha256": ""
+      "sha256": "27cc6df2189e142671e4174ad7b2d773318b1b871758ec27756538947052a302"
     },
     {
-      "name": "DungeonsArise",
+      "name": "DungeonsArise-1.20.x-2.1.58-release",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/DungeonsArise-1.20.x-2.1.58-release.jar",
       "filename": "DungeonsArise-1.20.x-2.1.58-release.jar",
-      "url": "https://mediafilez.forgecdn.net/files/4983/862/DungeonsArise-1.20.x-2.1.58-release.jar",
-      "sha256": ""
+      "sha256": "f8f1254dbe7ed7c1d5403f20361a36f0d0587c82b71313e3f427c7f1ce7c8a90"
     },
     {
-      "name": "easy villagers forge",
+      "name": "easy-villagers-forge-1.20.1-1.1.23",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/easy-villagers-forge-1.20.1-1.1.23.jar",
       "filename": "easy-villagers-forge-1.20.1-1.1.23.jar",
-      "url": "https://mediafilez.forgecdn.net/files/5724/570/easy-villagers-forge-1.20.1-1.1.23.jar",
-      "sha256": ""
+      "sha256": "14338c76517912a248eaa9ae77db7c67f28b858d762f71e01373602909706cb1"
     },
     {
-      "name": "easyautocycler forge",
+      "name": "easyautocycler-forge-1.20.1-3.1.0",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/easyautocycler-forge-1.20.1-3.1.0.jar",
       "filename": "easyautocycler-forge-1.20.1-3.1.0.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8554/772/easyautocycler-forge-1.20.1-3.1.0.jar",
-      "sha256": ""
+      "sha256": "eb5b05d978ba4be7312dacafcec994fddb8f854f0ee673fd1852e2eb751df53a"
     },
     {
-      "name": "easydisenchanting forge",
+      "name": "easydisenchanting-forge-1.0.1-1.20.1",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/easydisenchanting-forge-1.0.1-1.20.1.jar",
       "filename": "easydisenchanting-forge-1.0.1-1.20.1.jar",
-      "url": "https://mediafilez.forgecdn.net/files/6537/108/easydisenchanting-forge-1.0.1-1.20.1.jar",
-      "sha256": ""
+      "sha256": "f6a736386095dd91cdabf54ec3bf33bdececcf5d34b6daeba517d473b89ba93f"
     },
     {
-      "name": "effectgems",
+      "name": "effectgems1.5forge1.20.1",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/effectgems1.5forge1.20.1.jar",
       "filename": "effectgems1.5forge1.20.1.jar",
-      "url": "https://mediafilez.forgecdn.net/files/4783/648/effectgems1.5forge1.20.1.jar",
-      "sha256": ""
+      "sha256": "17a64db262fd4318543c4537994124375f284ec92001972ff10d7d275ea09388"
     },
     {
-      "name": "effortless",
+      "name": "effortless-1.20.1-3.4.0",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/effortless-1.20.1-3.4.0.jar",
       "filename": "effortless-1.20.1-3.4.0.jar",
-      "url": "https://mediafilez.forgecdn.net/files/6251/939/effortless-1.20.1-3.4.0.jar",
-      "sha256": ""
+      "sha256": "24cbbffe480eb65126af382e1e09d79fdf51862f7f71e27dcdc5e1ac68fd194c"
     },
     {
-      "name": "embeddium",
+      "name": "embeddium-0.3.31+mc1.20.1",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/embeddium-0.3.31+mc1.20.1.jar",
       "filename": "embeddium-0.3.31+mc1.20.1.jar",
-      "url": "https://mediafilez.forgecdn.net/files/5681/725/embeddium-0.3.31%2Bmc1.20.1.jar",
-      "sha256": ""
+      "sha256": "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb"
     },
     {
-      "name": "enhanced boss bars",
+      "name": "enhanced_boss_bars-1.20.1-1.0.0",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/enhanced_boss_bars-1.20.1-1.0.0.jar",
       "filename": "enhanced_boss_bars-1.20.1-1.0.0.jar",
-      "url": "https://mediafilez.forgecdn.net/files/5529/869/enhanced_boss_bars-1.20.1-1.0.0.jar",
-      "sha256": ""
+      "sha256": "c86c6e909ec4731efaae4b97bb06d7d5a559794861c5805491ee0da0497c4877"
     },
     {
-      "name": "entityculling forge",
+      "name": "entityculling-forge-1.10.5-mc1.20.1",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/entityculling-forge-1.10.5-mc1.20.1.jar",
       "filename": "entityculling-forge-1.10.5-mc1.20.1.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8287/086/entityculling-forge-1.10.5-mc1.20.1.jar",
-      "sha256": ""
+      "sha256": "db0ee6aaf7e78d758885969e1d237e6efef07109195d4bb81fa06b304ddc12aa"
     },
     {
-      "name": "Essential 1 4 1 1 forge 1 20 1",
+      "name": "Essential_1-4-1-1_forge_1-20-1",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/Essential_1-4-1-1_forge_1-20-1.jar",
       "filename": "Essential_1-4-1-1_forge_1-20-1.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8539/858/Essential_1-4-1-1_forge_1-20-1.jar",
-      "sha256": ""
+      "sha256": "7482310b7e677f34ca8747ddfee0d67428e6036ea258967f296e766cf897e12e"
     },
     {
-      "name": "ferritecore",
+      "name": "extraspecialcore-2.0.1+1.20.1-forge",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/extraspecialcore-2.0.1+1.20.1-forge.jar",
+      "filename": "extraspecialcore-2.0.1+1.20.1-forge.jar",
+      "sha256": "85b97d47c306f4dcb3e3f4a4465212bfa352c8e68dc3db1560a25a90872e8c5d"
+    },
+    {
+      "name": "extraspecialhub-1.0.0+1.20.1-forge",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/extraspecialhub-1.0.0+1.20.1-forge.jar",
+      "filename": "extraspecialhub-1.0.0+1.20.1-forge.jar",
+      "sha256": "1abeb578500787064d4def640a485356fd1f65a8996b9676084f23a53b1f4dea"
+    },
+    {
+      "name": "extraspeciallib-1.0.1+1.20.1-forge",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/extraspeciallib-1.0.1+1.20.1-forge.jar",
+      "filename": "extraspeciallib-1.0.1+1.20.1-forge.jar",
+      "sha256": "5c0140fe122147b7f20c3f77eb3ab1533779f2bb893e50320f647e82cb196d1a"
+    },
+    {
+      "name": "ferritecore-6.0.1-forge",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/ferritecore-6.0.1-forge.jar",
       "filename": "ferritecore-6.0.1-forge.jar",
-      "url": "https://mediafilez.forgecdn.net/files/4810/975/ferritecore-6.0.1-forge.jar",
-      "sha256": ""
+      "sha256": "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54"
     },
     {
-      "name": "forge medievalend",
+      "name": "forge-medievalend-1.0.1",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/forge-medievalend-1.0.1.jar",
       "filename": "forge-medievalend-1.0.1.jar",
-      "url": "https://mediafilez.forgecdn.net/files/5270/720/forge-medievalend-1.0.1.jar",
-      "sha256": ""
+      "sha256": "f65d1a3defd3d9d56d498ee79b6eeda8ec91193e6c2f989581e23f8069f4499f"
     },
     {
-      "name": "fzzy config",
+      "name": "forge.ctov-3.4.14",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/forge.ctov-3.4.14.jar",
+      "filename": "forge.ctov-3.4.14.jar",
+      "sha256": "c4b0326efa655b180cc2b9d87994ca639ee4415debbf45788f665e9f4f864d3c"
+    },
+    {
+      "name": "fzzy_config-0.7.6+1.20.1+forge",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/fzzy_config-0.7.6+1.20.1+forge.jar",
       "filename": "fzzy_config-0.7.6+1.20.1+forge.jar",
-      "url": "https://mediafilez.forgecdn.net/files/7568/893/fzzy_config-0.7.6%2B1.20.1%2Bforge.jar",
-      "sha256": ""
+      "sha256": "d39cd5d6b23b86468937e306776dc70faba900072c7e359ce9348d8a3c26982e"
     },
     {
-      "name": "gatewaysmg",
+      "name": "gatewaysmg1.20.1-1.1.1",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/gatewaysmg1.20.1-1.1.1.jar",
       "filename": "gatewaysmg1.20.1-1.1.1.jar",
-      "url": "https://mediafilez.forgecdn.net/files/6261/370/gatewaysmg1.20.1-1.1.1.jar",
-      "sha256": ""
+      "sha256": "0cc84d0f22dcf820668134b8411d5ea4cac0605d4ca40dd75bcf826632124458"
     },
     {
-      "name": "GatewaysToEternity",
+      "name": "GatewaysToEternity-1.20.1-4.2.6",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/GatewaysToEternity-1.20.1-4.2.6.jar",
       "filename": "GatewaysToEternity-1.20.1-4.2.6.jar",
-      "url": "https://mediafilez.forgecdn.net/files/5703/251/GatewaysToEternity-1.20.1-4.2.6.jar",
-      "sha256": ""
+      "sha256": "f6101d9f11b1aed6f97473b797b47201d03d8a9dcb2294f4bcb9d5f5cdbf413f"
     },
     {
-      "name": "geckolib forge",
+      "name": "geckolib-forge-1.20.1-4.8.4",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/geckolib-forge-1.20.1-4.8.4.jar",
       "filename": "geckolib-forge-1.20.1-4.8.4.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8285/794/geckolib-forge-1.20.1-4.8.4.jar",
-      "sha256": ""
+      "sha256": "c04abba4fd354dd8c0e8a732f1f05f4dca893d2e1d962b2ab128bbd411478747"
     },
     {
-      "name": "gottschcore",
+      "name": "gottschcore-1.20.1-2.8.0",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/gottschcore-1.20.1-2.8.0.jar",
       "filename": "gottschcore-1.20.1-2.8.0.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8143/594/gottschcore-1.20.1-2.8.0.jar",
-      "sha256": ""
+      "sha256": "0440d66f8f775d1b23acdbffd7418fc7a6f1f23b06ff19f9942c2a7615e5e503"
     },
     {
-      "name": "gpumemleakfix",
+      "name": "gpumemleakfix-1.20.1-1.8",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/gpumemleakfix-1.20.1-1.8.jar",
       "filename": "gpumemleakfix-1.20.1-1.8.jar",
-      "url": "https://mediafilez.forgecdn.net/files/4884/976/gpumemleakfix-1.20.1-1.8.jar",
-      "sha256": ""
+      "sha256": "a7019442f1b07b1a4a875fe404d04d162905cc7fd42e0b3c843aefc7b39efc46"
     },
     {
-      "name": "grand teleport forge",
-      "filename": "grand-teleport-forge-1.20.1-forge-build300.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8367/233/grand-teleport-forge-1.20.1-forge-build300.jar",
-      "sha256": ""
-    },
-    {
-      "name": "gravestone forge",
+      "name": "gravestone-forge-1.20.1-1.0.35",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/gravestone-forge-1.20.1-1.0.35.jar",
       "filename": "gravestone-forge-1.20.1-1.0.35.jar",
-      "url": "https://mediafilez.forgecdn.net/files/7099/725/gravestone-forge-1.20.1-1.0.35.jar",
-      "sha256": ""
+      "sha256": "3d31bd224bc1f9055c502cf675416ae8046dbc15bf2db6627e26a032da437e85"
     },
     {
-      "name": "healthindicatortxf",
+      "name": "healthindicatortxf-1.20.1-1.3.12-forge",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/healthindicatortxf-1.20.1-1.3.12-forge.jar",
       "filename": "healthindicatortxf-1.20.1-1.3.12-forge.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8197/566/healthindicatortxf-1.20.1-1.3.12-forge.jar",
-      "sha256": ""
+      "sha256": "d7755754cbb830558c4e3210345184bdf3069e982b85dd96e9355e93221e6eda"
     },
     {
-      "name": "hole filler mod",
+      "name": "hole_filler_mod-1.2.8_mc-1.20.1_forge",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/hole_filler_mod-1.2.8_mc-1.20.1_forge.jar",
       "filename": "hole_filler_mod-1.2.8_mc-1.20.1_forge.jar",
-      "url": "https://mediafilez.forgecdn.net/files/4588/152/hole_filler_mod-1.2.8_mc-1.20.1_forge.jar",
-      "sha256": ""
+      "sha256": "4853477702d25c3e7b53957cf76e09675232690e0246177a77d8ebb750835bb9"
     },
     {
-      "name": "ImmediatelyFast Forge",
+      "name": "ImmediatelyFast-Forge-1.5.5+1.20.4",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/ImmediatelyFast-Forge-1.5.5+1.20.4.jar",
       "filename": "ImmediatelyFast-Forge-1.5.5+1.20.4.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8348/481/ImmediatelyFast-Forge-1.5.5%2B1.20.4.jar",
-      "sha256": ""
+      "sha256": "82db19cc65b5c11a444498fb4b8cbcb0393c043e794cb5bf368631a0af765035"
     },
     {
-      "name": "inventorymanagement",
+      "name": "inventorymanagement-1.20.1-Forge-1.0.7",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/inventorymanagement-1.20.1-Forge-1.0.7.jar",
       "filename": "inventorymanagement-1.20.1-Forge-1.0.7.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8083/721/inventorymanagement-1.20.1-Forge-1.0.7.jar",
-      "sha256": ""
+      "sha256": "fd5533e547ef8070d007ba351af5a6b0257e07669d59ddc1aa79882b00ad6d54"
     },
     {
-      "name": "jamlib forge",
+      "name": "jamlib-forge-1.3.6+1.20.1-patch.1",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/jamlib-forge-1.3.6+1.20.1-patch.1.jar",
       "filename": "jamlib-forge-1.3.6+1.20.1-patch.1.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8155/852/jamlib-forge-1.3.6%2B1.20.1-patch.1.jar",
-      "sha256": ""
+      "sha256": "ad71c5ad93d305fd9c1f1dcecea2b7431886452baca5b324e80ba3c1241a3e3b"
     },
     {
-      "name": "jei",
+      "name": "jei-1.20.1-forge-15.56.0.205",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/jei-1.20.1-forge-15.56.0.205.jar",
       "filename": "jei-1.20.1-forge-15.56.0.205.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8778/011/jei-1.20.1-forge-15.56.0.205.jar",
-      "sha256": ""
+      "sha256": "6b251e60a4719c874da89d750af97aa6498f6f4475e3ae79cb1288c7bf0cb65c"
     },
     {
-      "name": "kotlinforforge",
+      "name": "kotlinforforge-4.12.0-all",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/kotlinforforge-4.12.0-all.jar",
       "filename": "kotlinforforge-4.12.0-all.jar",
-      "url": "https://mediafilez.forgecdn.net/files/7291/067/kotlinforforge-4.12.0-all.jar",
-      "sha256": ""
+      "sha256": "6a66c6a68ec09f8717cdbf06883394f0ee24d7cd826b7134a0f81839e8e720ae"
     },
     {
-      "name": "L Enders Cataclysm",
-      "filename": "L_Enders_Cataclysm-3.31.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8246/047/L_Enders_Cataclysm-3.31.jar",
-      "sha256": ""
+      "name": "legendarymonsters-2.2.2.MC.1.20.1",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/legendarymonsters-2.2.2.MC.1.20.1.jar",
+      "filename": "legendarymonsters-2.2.2.MC.1.20.1.jar",
+      "sha256": "8fc236e768acabe168c575f6ec76a3a587f0178a14f2706f6afa26dc470a69a8"
     },
     {
-      "name": "legendarymonsters",
-      "filename": "legendarymonsters-2.2.2 MC 1.20.1.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8715/502/legendarymonsters-2.2.2%20MC%201.20.1.jar",
-      "sha256": ""
-    },
-    {
-      "name": "libraryferret forge",
+      "name": "libraryferret-forge-1.20.1-4.0.0",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/libraryferret-forge-1.20.1-4.0.0.jar",
       "filename": "libraryferret-forge-1.20.1-4.0.0.jar",
-      "url": "https://mediafilez.forgecdn.net/files/4601/234/libraryferret-forge-1.20.1-4.0.0.jar",
-      "sha256": ""
+      "sha256": "355f5000b56d6f355338bd494fcdb822f36e29cf9e3c27ebcc7720402a804510"
     },
     {
-      "name": "lionfishapi",
+      "name": "lionfishapi-3.0",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/lionfishapi-3.0.jar",
       "filename": "lionfishapi-3.0.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8095/554/lionfishapi-3.0.jar",
-      "sha256": ""
+      "sha256": "d2fdaf7e9bc53fde7da4a86ab17018a3ed6c16fc2d46de5054e5a83e2bef7871"
     },
     {
-      "name": "lithostitched forge",
+      "name": "lithostitched-forge-1.20.1-1.4.11",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/lithostitched-forge-1.20.1-1.4.11.jar",
       "filename": "lithostitched-forge-1.20.1-1.4.11.jar",
-      "url": "https://mediafilez.forgecdn.net/files/6742/615/lithostitched-forge-1.20.1-1.4.11.jar",
-      "sha256": ""
+      "sha256": "c19a5a36c0e6cb3782cf7ca5b9648fb1bce5fc41fd737bed423a1f4971bccf75"
     },
     {
-      "name": "lm addons",
-      "filename": "lm_addons-0.4.2 1.20.1.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8729/354/lm_addons-0.4.2%201.20.1.jar",
-      "sha256": ""
+      "name": "lm_addons-0.4.2.1.20.1",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/lm_addons-0.4.2.1.20.1.jar",
+      "filename": "lm_addons-0.4.2.1.20.1.jar",
+      "sha256": "4c0589d600209e8faffa36cad3cb5d246a704dbf1f5f6042a347b09d2229293f"
     },
     {
-      "name": "LocatorBar forge",
+      "name": "LocatorBar-forge-1.2.2+1.20.1",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/LocatorBar-forge-1.2.2+1.20.1.jar",
       "filename": "LocatorBar-forge-1.2.2+1.20.1.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8602/123/LocatorBar-forge-1.2.2%2B1.20.1.jar",
-      "sha256": ""
+      "sha256": "efb3b503760a13b8daf53360221b3b8adb6b4e7f5a9cd43cbd0539c13e3e2125"
     },
     {
-      "name": "lootintegration townsandtowers",
-      "filename": "lootintegration_townsandtowers-1.4.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8336/685/lootintegration_townsandtowers-1.4.jar",
-      "sha256": ""
-    },
-    {
-      "name": "lootintegrations ctov",
-      "filename": "lootintegrations_ctov-1.4.jar",
-      "url": "https://mediafilez.forgecdn.net/files/6510/009/lootintegrations_ctov-1.4.jar",
-      "sha256": ""
-    },
-    {
-      "name": "lootintegrations",
+      "name": "lootintegrations-1.20.1-4.7",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/lootintegrations-1.20.1-4.7.jar",
       "filename": "lootintegrations-1.20.1-4.7.jar",
-      "url": "https://mediafilez.forgecdn.net/files/6640/968/lootintegrations-1.20.1-4.7.jar",
-      "sha256": ""
+      "sha256": "88dc2701f90c04a4fa343be11ea0c21cbda1d675cba514f201946dcd8eae17ea"
     },
     {
-      "name": "medieval buildings nether edition",
-      "filename": "medieval_buildings_nether_edition-1.20.1-1.0.2-forge.jar",
-      "url": "https://mediafilez.forgecdn.net/files/7435/310/medieval_buildings_nether_edition-1.20.1-1.0.2-forge.jar",
-      "sha256": ""
+      "name": "lootintegrations_ctov-1.4",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/lootintegrations_ctov-1.4.jar",
+      "filename": "lootintegrations_ctov-1.4.jar",
+      "sha256": "42399d1eb605b313f6c39dd0d2f320e473eaee48c4177bbd7424ebd7370e43a5"
     },
     {
-      "name": "medieval buildings",
+      "name": "lootintegration_townsandtowers-1.4",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/lootintegration_townsandtowers-1.4.jar",
+      "filename": "lootintegration_townsandtowers-1.4.jar",
+      "sha256": "3ae245fa68937122ddc50461c48aea55619ba9918c6ff5b0f9d6d7e60aef032f"
+    },
+    {
+      "name": "L_Enders_Cataclysm-3.31",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/L_Enders_Cataclysm-3.31.jar",
+      "filename": "L_Enders_Cataclysm-3.31.jar",
+      "sha256": "c29dcf940168208517b72f2d9965828b106a6b94cbea55d5001558c69a27b362"
+    },
+    {
+      "name": "medieval_buildings-1.20.1-1.1.3-forge",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/medieval_buildings-1.20.1-1.1.3-forge.jar",
       "filename": "medieval_buildings-1.20.1-1.1.3-forge.jar",
-      "url": "https://mediafilez.forgecdn.net/files/7251/122/medieval_buildings-1.20.1-1.1.3-forge.jar",
-      "sha256": ""
+      "sha256": "1e45593b718dbdb04a4ab228cf165afc27840e605bc44a65e0b0730b1ec1c178"
     },
     {
-      "name": "meetyourfight",
+      "name": "medieval_buildings_nether_edition-1.20.1-1.0.2-forge",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/medieval_buildings_nether_edition-1.20.1-1.0.2-forge.jar",
+      "filename": "medieval_buildings_nether_edition-1.20.1-1.0.2-forge.jar",
+      "sha256": "e77e6c39641335f584f3310d701ac85491d54088ce9740643484c94b1d6550a4"
+    },
+    {
+      "name": "meetyourfight-1.20.1-1.6.1",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/meetyourfight-1.20.1-1.6.1.jar",
       "filename": "meetyourfight-1.20.1-1.6.1.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8166/391/meetyourfight-1.20.1-1.6.1.jar",
-      "sha256": ""
+      "sha256": "1cabbd439890a6160da2059a5759c7438dd9b070e08487c27249b339212c05e4"
     },
     {
-      "name": "millager forge",
+      "name": "millager-forge-1.20.1-0.7.7",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/millager-forge-1.20.1-0.7.7.jar",
       "filename": "millager-forge-1.20.1-0.7.7.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8705/034/millager-forge-1.20.1-0.7.7.jar",
-      "sha256": ""
+      "sha256": "8f457db14d29bf71cf7e1e340462109a4e5be3d9b89e8c1a1839dce2de5f90a8"
     },
     {
-      "name": "modernfix forge",
+      "name": "modernfix-forge-5.27.83+mc1.20.1",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/modernfix-forge-5.27.83+mc1.20.1.jar",
       "filename": "modernfix-forge-5.27.83+mc1.20.1.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8774/721/modernfix-forge-5.27.83%2Bmc1.20.1.jar",
-      "sha256": ""
+      "sha256": "954ff22f601be8de3978a0d7636a138dc93801c6ac55cfd71ef1cd2895de8e5f"
     },
     {
-      "name": "monsterexpansion",
+      "name": "monsterexpansion-1.20.1-v0.7.6",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/monsterexpansion-1.20.1-v0.7.6.jar",
       "filename": "monsterexpansion-1.20.1-v0.7.6.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8594/666/monsterexpansion-1.20.1-v0.7.6.jar",
-      "sha256": ""
+      "sha256": "28fd406c53ec40d7164018ab8e35ab3b0a570e30138160fdcdd48c7a54775dcf"
     },
     {
-      "name": "mowzies cataclysm",
-      "filename": "mowzies_cataclysm-1.2.1.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8142/902/mowzies_cataclysm-1.2.1.jar",
-      "sha256": ""
-    },
-    {
-      "name": "mowziesmobs",
+      "name": "mowziesmobs-1.8.2",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/mowziesmobs-1.8.2.jar",
       "filename": "mowziesmobs-1.8.2.jar",
-      "url": "https://mediafilez.forgecdn.net/files/7815/705/mowziesmobs-1.8.2.jar",
-      "sha256": ""
+      "sha256": "e8ce1768cda6f1e1fadd2321c92921b473bd0cee45ba4b8387fb30f8326cb31c"
     },
     {
-      "name": "naturalist",
+      "name": "mowzies_cataclysm-1.2.1",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/mowzies_cataclysm-1.2.1.jar",
+      "filename": "mowzies_cataclysm-1.2.1.jar",
+      "sha256": "04d46a8a926f200747d834de36764382646014166b672fca0e32703842531c3a"
+    },
+    {
+      "name": "naturalist-5.0pre2+forge-1.20.1",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/naturalist-5.0pre2+forge-1.20.1.jar",
       "filename": "naturalist-5.0pre2+forge-1.20.1.jar",
-      "url": "https://mediafilez.forgecdn.net/files/6322/818/naturalist-5.0pre2%2Bforge-1.20.1.jar",
-      "sha256": ""
+      "sha256": "2bdf7df54d5d0287016aa0f4228e426be74ce83a4ef30c7107d3010056a1d4d2"
     },
     {
-      "name": "obscure api 18",
+      "name": "obscure_api-18",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/obscure_api-18.jar",
       "filename": "obscure_api-18.jar",
-      "url": "https://mediafilez.forgecdn.net/files/7171/906/obscure_api-18.jar",
-      "sha256": ""
+      "sha256": "14f099e9b8c1cae0c98b5ccb792d5eaf56b71c456cf2c2d59de3c175be3e3b7e"
     },
     {
-      "name": "OctoLib FORGE",
+      "name": "OctoLib-FORGE-0.5.0.1+1.20.1",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/OctoLib-FORGE-0.5.0.1+1.20.1.jar",
       "filename": "OctoLib-FORGE-0.5.0.1+1.20.1.jar",
-      "url": "https://mediafilez.forgecdn.net/files/6274/623/OctoLib-FORGE-0.5.0.1%2B1.20.1.jar",
-      "sha256": ""
+      "sha256": "5bb146c691f2c5054752f006a61aab6335ecb1cd9718a9643733de5367971047"
     },
     {
-      "name": "ore vein miner",
+      "name": "ore-vein-miner-7.01R1",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/ore-vein-miner-7.01R1.jar",
       "filename": "ore-vein-miner-7.01R1.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8762/910/ore-vein-miner-7.01R1.jar",
-      "sha256": ""
+      "sha256": "d572a6b2aca6d1f7acacfd69e62e4e4ced750e203617dff7ccad6afc9b80cf9f"
     },
     {
-      "name": "packetfixer",
+      "name": "packetfixer-3.3.2-1.18-1.20.4-merged",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/packetfixer-3.3.2-1.18-1.20.4-merged.jar",
       "filename": "packetfixer-3.3.2-1.18-1.20.4-merged.jar",
-      "url": "https://mediafilez.forgecdn.net/files/7872/374/packetfixer-3.3.2-1.18-1.20.4-merged.jar",
-      "sha256": ""
+      "sha256": "12f96ecb8e61e0b3d3f0ca5701f479904904501dd251aa7bb60205afdf6bc2ce"
     },
     {
-      "name": "palladium",
+      "name": "palladium-4.5.9+1.20.1-forge",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/palladium-4.5.9+1.20.1-forge.jar",
       "filename": "palladium-4.5.9+1.20.1-forge.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8716/074/palladium-4.5.9%2B1.20.1-forge.jar",
-      "sha256": ""
+      "sha256": "af99a7ba746404c9774cd737dcc1db2d1f6fb7963fdbfa1bbee6b5b9832e29c9"
     },
     {
-      "name": "Placebo",
+      "name": "Patchouli-1.20.1-85-FORGE",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/Patchouli-1.20.1-85-FORGE.jar",
+      "filename": "Patchouli-1.20.1-85-FORGE.jar",
+      "sha256": "05f7b5d52f6b8f0fd7f8b4822fa07a192d1394d83a264309c9d221d6d4fd21c5"
+    },
+    {
+      "name": "Placebo-1.20.1-8.6.3",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/Placebo-1.20.1-8.6.3.jar",
       "filename": "Placebo-1.20.1-8.6.3.jar",
-      "url": "https://mediafilez.forgecdn.net/files/6274/231/Placebo-1.20.1-8.6.3.jar",
-      "sha256": ""
+      "sha256": "1cdf906cfbcbb5e5be2ef1bb721f79a24b01bd2ac559c8cdbfb7693f62421571"
     },
     {
-      "name": "rarcompat",
+      "name": "rarcompat-1.20.1-0.5",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/rarcompat-1.20.1-0.5.jar",
       "filename": "rarcompat-1.20.1-0.5.jar",
-      "url": "https://mediafilez.forgecdn.net/files/7106/942/rarcompat-1.20.1-0.5.jar",
-      "sha256": ""
+      "sha256": "2de2a9cfd21edf676072ca7432ff9acdd28f8e077fcac90a46d3dea8f82bf9f1"
     },
     {
-      "name": "regrowth",
+      "name": "regrowth-1.20-46.32.1",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/regrowth-1.20-46.32.1.jar",
       "filename": "regrowth-1.20-46.32.1.jar",
-      "url": "https://mediafilez.forgecdn.net/files/7287/674/regrowth-1.20-46.32.1.jar",
-      "sha256": ""
+      "sha256": "e38be2f97d853cc5975aac932ebe0a61c4655b1b6207cd0e24f9bb2c520d81cb"
     },
     {
-      "name": "relics",
+      "name": "relics-1.20.1-0.8.0.13",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/relics-1.20.1-0.8.0.13.jar",
       "filename": "relics-1.20.1-0.8.0.13.jar",
-      "url": "https://mediafilez.forgecdn.net/files/7708/970/relics-1.20.1-0.8.0.13.jar",
-      "sha256": ""
+      "sha256": "2731d3b81533564c5d206faf94e4e8afaf928d97b47b720e5d6aaa017333096f"
     },
     {
-      "name": "rightclickharvest forge",
+      "name": "rightclickharvest-forge-4.6.1+1.20.1",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/rightclickharvest-forge-4.6.1+1.20.1.jar",
       "filename": "rightclickharvest-forge-4.6.1+1.20.1.jar",
-      "url": "https://mediafilez.forgecdn.net/files/7508/764/rightclickharvest-forge-4.6.1%2B1.20.1.jar",
-      "sha256": ""
+      "sha256": "e7ae955174869497a7aa855cf859aba6f37abbb2a93b53e9e05935cf7709cc0a"
     },
     {
-      "name": "royal variations [Forge]",
-      "filename": "royal-variations-[Forge]_1.20.1_2.0.2.jar",
-      "url": "https://mediafilez.forgecdn.net/files/7168/087/royal-variations-%5BForge%5D_1.20.1_2.0.2.jar",
-      "sha256": ""
+      "name": "royal-variations-.Forge._1.20.1_2.0.2",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/royal-variations-.Forge._1.20.1_2.0.2.jar",
+      "filename": "royal-variations-.Forge._1.20.1_2.0.2.jar",
+      "sha256": "72fea21961a4fdf9a02688b137f6103b31f937d76cce26a900d6750be5e1a80f"
     },
     {
-      "name": "Searchables forge",
+      "name": "Searchables-forge-1.20.1-1.0.3",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/Searchables-forge-1.20.1-1.0.3.jar",
       "filename": "Searchables-forge-1.20.1-1.0.3.jar",
-      "url": "https://mediafilez.forgecdn.net/files/5284/015/Searchables-forge-1.20.1-1.0.3.jar",
-      "sha256": ""
+      "sha256": "c1a76e93886210574d3f298c0461241fb711e52ac22c7a04d3236840f29e6576"
     },
     {
-      "name": "simply swords overhaul",
-      "filename": "simply_swords_overhaul-1.0.4-1.20.1.jar",
-      "url": "https://mediafilez.forgecdn.net/files/7005/071/simply_swords_overhaul-1.0.4-1.20.1.jar",
-      "sha256": ""
-    },
-    {
-      "name": "simplycataclysm",
-      "filename": "simplycataclysm-1.0.1+1.20.1+forge.jar",
-      "url": "https://mediafilez.forgecdn.net/files/7337/487/simplycataclysm-1.0.1%2B1.20.1%2Bforge.jar",
-      "sha256": ""
-    },
-    {
-      "name": "simplyswords forge neoforge",
+      "name": "simplyswords-forge-neoforge-1.70.2-1.20.1",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/simplyswords-forge-neoforge-1.70.2-1.20.1.jar",
       "filename": "simplyswords-forge-neoforge-1.70.2-1.20.1.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8746/028/simplyswords-forge-neoforge-1.70.2-1.20.1.jar",
-      "sha256": ""
+      "sha256": "642e385ffda914f1b9411f0a457fe5fb5e05aa160dc44392dec9a549c2bcec21"
     },
     {
-      "name": "simplytents",
-      "filename": "simplytents-4.6-1.20.1.forge.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8198/028/simplytents-4.6-1.20.1.forge.jar",
-      "sha256": ""
-    },
-    {
-      "name": "SimplyTooltips forge",
+      "name": "SimplyTooltips-forge-0.1.5-1.20.1",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/SimplyTooltips-forge-0.1.5-1.20.1.jar",
       "filename": "SimplyTooltips-forge-0.1.5-1.20.1.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8715/158/SimplyTooltips-forge-0.1.5-1.20.1.jar",
-      "sha256": ""
+      "sha256": "a50357b4982132522f48afc6fa625c453359390f8180e4c72f6288ecd46dee3c"
     },
     {
-      "name": "sophisticatedbackpacks",
+      "name": "sophisticatedbackpacks-1.20.1-3.26.3.2157",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/sophisticatedbackpacks-1.20.1-3.26.3.2157.jar",
       "filename": "sophisticatedbackpacks-1.20.1-3.26.3.2157.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8845/923/sophisticatedbackpacks-1.20.1-3.26.3.2157.jar",
-      "sha256": ""
+      "sha256": "6ab4a0cb739a6c11442a73d1b5f42c40c2ae93b31162fa63d81e1b66706e9e31"
     },
     {
-      "name": "sophisticatedcore",
+      "name": "sophisticatedcore-1.20.1-1.5.1.2335",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/sophisticatedcore-1.20.1-1.5.1.2335.jar",
       "filename": "sophisticatedcore-1.20.1-1.5.1.2335.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8839/328/sophisticatedcore-1.20.1-1.5.1.2335.jar",
-      "sha256": ""
+      "sha256": "f4038a2e0d0e3504258fbe315cb27a37f1a769d71985bfa20afb983a3bdfab64"
     },
     {
-      "name": "sophisticatedstorage",
+      "name": "sophisticatedstorage-1.20.1-1.4.86.2131",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/sophisticatedstorage-1.20.1-1.4.86.2131.jar",
       "filename": "sophisticatedstorage-1.20.1-1.4.86.2131.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8719/374/sophisticatedstorage-1.20.1-1.4.86.2131.jar",
-      "sha256": ""
+      "sha256": "33b4816be111ced6e54e0651fd1fd933eee9feb8e284d371a3246da06c65b6b2"
     },
     {
-      "name": "spartancataclysm",
+      "name": "spartancataclysm-1.1.2+1.20.1+forge",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/spartancataclysm-1.1.2+1.20.1+forge.jar",
       "filename": "spartancataclysm-1.1.2+1.20.1+forge.jar",
-      "url": "https://mediafilez.forgecdn.net/files/7215/431/spartancataclysm-1.1.2%2B1.20.1%2Bforge.jar",
-      "sha256": ""
+      "sha256": "cafb5d4b09421d4852e578d9c205b0b87f64330cecccb700f9d255cfa7837b32"
     },
     {
-      "name": "spartantoolkit",
+      "name": "spartantoolkit-1.20.1-1.6.1",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/spartantoolkit-1.20.1-1.6.1.jar",
       "filename": "spartantoolkit-1.20.1-1.6.1.jar",
-      "url": "https://mediafilez.forgecdn.net/files/6863/433/spartantoolkit-1.20.1-1.6.1.jar",
-      "sha256": ""
+      "sha256": "e33951b88742d7547c898e1594511bc22329b5638469120ce04e96f806613ca7"
     },
     {
-      "name": "SpartanWeaponry",
+      "name": "SpartanWeaponry-1.20.1-forge-3.2.1-all",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/SpartanWeaponry-1.20.1-forge-3.2.1-all.jar",
       "filename": "SpartanWeaponry-1.20.1-forge-3.2.1-all.jar",
-      "url": "https://mediafilez.forgecdn.net/files/6842/571/SpartanWeaponry-1.20.1-forge-3.2.1-all.jar",
-      "sha256": ""
+      "sha256": "2736ac2dd52a7b3a188df454e61a4154cd36e273fa770f3ab89dcf6e732e88ad"
     },
     {
-      "name": "spartanweaponryaquaculture",
+      "name": "spartanweaponryaquaculture-0.2-1.20.1",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/spartanweaponryaquaculture-0.2-1.20.1.jar",
       "filename": "spartanweaponryaquaculture-0.2-1.20.1.jar",
-      "url": "https://mediafilez.forgecdn.net/files/7584/460/spartanweaponryaquaculture-0.2-1.20.1.jar",
-      "sha256": ""
+      "sha256": "0dd8f463089e346c640a9cceff59eb9dd54da4d582b7dd8b2a41ae88b29a983d"
     },
     {
-      "name": "starlight",
+      "name": "starlight-1.1.2+forge.1cda73c",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/starlight-1.1.2+forge.1cda73c.jar",
       "filename": "starlight-1.1.2+forge.1cda73c.jar",
-      "url": "https://mediafilez.forgecdn.net/files/4631/193/starlight-1.1.2%2Bforge.1cda73c.jar",
-      "sha256": ""
+      "sha256": "e90763c86d362c7cb427dbb70e89985c11a882fdd69ae7d04ac2e23a106eb500"
     },
     {
-      "name": "structure gel",
+      "name": "structure_gel-1.20.1-2.16.2",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/structure_gel-1.20.1-2.16.2.jar",
       "filename": "structure_gel-1.20.1-2.16.2.jar",
-      "url": "https://mediafilez.forgecdn.net/files/5278/429/structure_gel-1.20.1-2.16.2.jar",
-      "sha256": ""
+      "sha256": "1584a5aed31c0f63e53c29d53cf4e069cdabf358e785240cc500702dc5918e3e"
     },
     {
-      "name": "supermartijn642configlib",
+      "name": "supermartijn642configlib-1.1.8-forge-mc1.20",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
       "filename": "supermartijn642configlib-1.1.8-forge-mc1.20.jar",
-      "url": "https://mediafilez.forgecdn.net/files/4715/408/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
-      "sha256": ""
+      "sha256": "bea425ef7e9cd27a7fc0f4b89e00cbd0a1ee050f071ecaa9f28f7238f400f0a3"
     },
     {
-      "name": "supermartijn642corelib",
+      "name": "supermartijn642corelib-1.1.24a-forge-mc1.20.1",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/supermartijn642corelib-1.1.24a-forge-mc1.20.1.jar",
       "filename": "supermartijn642corelib-1.1.24a-forge-mc1.20.1.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8677/304/supermartijn642corelib-1.1.24a-forge-mc1.20.1.jar",
-      "sha256": ""
+      "sha256": "d2f171eccda5ed74742cb60450f51939e4e4f637a49b4fc21efd9a941de52522"
     },
     {
-      "name": "TerraBlender forge",
+      "name": "TerraBlender-forge-1.20.1-3.0.1.10",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/TerraBlender-forge-1.20.1-3.0.1.10.jar",
       "filename": "TerraBlender-forge-1.20.1-3.0.1.10.jar",
-      "url": "https://mediafilez.forgecdn.net/files/6290/448/TerraBlender-forge-1.20.1-3.0.1.10.jar",
-      "sha256": ""
+      "sha256": "c109016f46ca9bdae69976bf080bbf2e8e5968cb66c0a78845f8ca6af5dbbeb1"
     },
     {
-      "name": "Towns and Towers",
+      "name": "Towns-and-Towers-1.12-Fabric+Forge",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/Towns-and-Towers-1.12-Fabric+Forge.jar",
       "filename": "Towns-and-Towers-1.12-Fabric+Forge.jar",
-      "url": "https://mediafilez.forgecdn.net/files/4923/828/Towns-and-Towers-1.12-Fabric%2BForge.jar",
-      "sha256": ""
+      "sha256": "9c8115af7109579da990249fdd67b38323a45be70f8a3a962b61da69c7021984"
     },
     {
-      "name": "trashslot forge",
+      "name": "trashslot-forge-1.20.1-15.1.5",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/trashslot-forge-1.20.1-15.1.5.jar",
       "filename": "trashslot-forge-1.20.1-15.1.5.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8019/497/trashslot-forge-1.20.1-15.1.5.jar",
-      "sha256": ""
+      "sha256": "7f038937dffeebc3885d347c47622d504a562da0bcce7873c50f2753db0a3746"
     },
     {
-      "name": "treasure2",
+      "name": "treasure2-1.20.1-4.0.6",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/treasure2-1.20.1-4.0.6.jar",
       "filename": "treasure2-1.20.1-4.0.6.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8822/632/treasure2-1.20.1-4.0.6.jar",
-      "sha256": ""
+      "sha256": "37ff142be15c28791b94e65ed7cac0e13eafa14f803580496e85396c9e18d23e"
     },
     {
-      "name": "tree vein miner",
+      "name": "tree-vein-miner-7.01R",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/tree-vein-miner-7.01R.jar",
       "filename": "tree-vein-miner-7.01R.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8763/052/tree-vein-miner-7.01R.jar",
-      "sha256": ""
+      "sha256": "5e198a13ddb602d73e88019a6dd72c74d519c8f35ec106af6360630ec9cedb28"
     },
     {
-      "name": "txnilib forge",
+      "name": "txnilib-forge-1.0.24-1.20.1",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/txnilib-forge-1.0.24-1.20.1.jar",
       "filename": "txnilib-forge-1.0.24-1.20.1.jar",
-      "url": "https://mediafilez.forgecdn.net/files/6533/724/txnilib-forge-1.0.24-1.20.1.jar",
-      "sha256": ""
+      "sha256": "71ca69345ef763903213e0b0db3c9c07d2a090ad311d1de66c31798a813a9d0e"
     },
     {
-      "name": "valarian conquest",
+      "name": "valarian_conquest-4.2.2-forge-1.20.1",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/valarian_conquest-4.2.2-forge-1.20.1.jar",
       "filename": "valarian_conquest-4.2.2-forge-1.20.1.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8422/493/valarian_conquest-4.2.2-forge-1.20.1.jar",
-      "sha256": ""
+      "sha256": "36942512eed99dceff59c6b2bd3766d1bd689db3dab60c819e9527bd1abf8783"
     },
     {
-      "name": "valhelsia core forge",
+      "name": "valhelsia_core-forge-1.20.1-1.1.2",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/valhelsia_core-forge-1.20.1-1.1.2.jar",
       "filename": "valhelsia_core-forge-1.20.1-1.1.2.jar",
-      "url": "https://mediafilez.forgecdn.net/files/5189/548/valhelsia_core-forge-1.20.1-1.1.2.jar",
-      "sha256": ""
+      "sha256": "d52ae1941c76ff57ee61943b38b5ae95a1e4bffa39604946bee1cfe52964f690"
     },
     {
-      "name": "valhelsia structures forge",
+      "name": "valhelsia_structures-forge-1.20.1-1.1.2",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/valhelsia_structures-forge-1.20.1-1.1.2.jar",
       "filename": "valhelsia_structures-forge-1.20.1-1.1.2.jar",
-      "url": "https://mediafilez.forgecdn.net/files/5195/707/valhelsia_structures-forge-1.20.1-1.1.2.jar",
-      "sha256": ""
+      "sha256": "ce2196035200ff1f07ce209d17aae98c0670db601128a3b970edcd69095edd6a"
     },
     {
-      "name": "waystones forge",
-      "filename": "waystones-forge-1.20.1-14.1.20.jar",
-      "url": "https://mediafilez.forgecdn.net/files/7682/270/waystones-forge-1.20.1-14.1.20.jar",
-      "sha256": ""
+      "name": "waystones-forge-1.20.1-14.1.21",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/waystones-forge-1.20.1-14.1.21.jar",
+      "filename": "waystones-forge-1.20.1-14.1.21.jar",
+      "sha256": "fd6fe3c645328ea7be5bc6723d02c881e34650e0cbd4527ba59e42fa4cbe3c80"
     },
     {
-      "name": "xaerominimap forge",
-      "filename": "xaerominimap-forge-1.20.1-26.4.2.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8449/808/xaerominimap-forge-1.20.1-26.4.2.jar",
-      "sha256": ""
+      "name": "xaerominimap-forge-1.20.1-26.5.0",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/xaerominimap-forge-1.20.1-26.5.0.jar",
+      "filename": "xaerominimap-forge-1.20.1-26.5.0.jar",
+      "sha256": "b21e1b4a13de533d0cf57d55969d5c83b3da78e8be44b93e76cddea9f6503d19"
     },
     {
-      "name": "xaeroworldmap forge",
-      "filename": "xaeroworldmap-forge-1.20.1-1.45.0.jar",
-      "url": "https://mediafilez.forgecdn.net/files/8698/646/xaeroworldmap-forge-1.20.1-1.45.0.jar",
-      "sha256": ""
+      "name": "xaeroworldmap-forge-1.20.1-1.46.0",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/xaeroworldmap-forge-1.20.1-1.46.0.jar",
+      "filename": "xaeroworldmap-forge-1.20.1-1.46.0.jar",
+      "sha256": "e00bd87a949cfa8c31d571f4d9646db038e3b98f8cdbb7bd217f3fb9c3780c9e"
     },
     {
-      "name": "YungsApi",
+      "name": "YungsApi-1.20-Forge-4.0.6",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/YungsApi-1.20-Forge-4.0.6.jar",
       "filename": "YungsApi-1.20-Forge-4.0.6.jar",
-      "url": "https://mediafilez.forgecdn.net/files/5769/971/YungsApi-1.20-Forge-4.0.6.jar",
-      "sha256": ""
+      "sha256": "101c30d01d0cf9d86190f578eb1e43bd06b64092e95662a00ef52946f472c7b1"
+    },
+    {
+      "name": "oculus-mc1.20.1-1.8.0",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/oculus-mc1.20.1-1.8.0.jar",
+      "filename": "oculus-mc1.20.1-1.8.0.jar",
+      "sha256": "0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef"
     }
   ]
 }
