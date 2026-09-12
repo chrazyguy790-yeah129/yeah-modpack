@@ -709,6 +709,12 @@
       "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/YungsApi-1.20-Forge-4.0.6.jar",
       "filename": "YungsApi-1.20-Forge-4.0.6.jar",
       "sha256": "101c30d01d0cf9d86190f578eb1e43bd06b64092e95662a00ef52946f472c7b1"
+    },
+      {
+      "name": "oculus-mc1_20_1-1_8_0",
+      "url": "https://github.com/chrazyguy790-yeah129/yeah-modpack/releases/download/modpack/oculus-mc1_20_1-1_8_0.jar",
+      "filename": "oculus-mc1_20_1-1_8_0.jar",
+      "sha256": "0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef"
     }
   ]
 }
